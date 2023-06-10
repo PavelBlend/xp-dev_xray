@@ -1,10 +1,6 @@
-Microsoft Visual Studio Solution File, Format Version 9.00
-# Visual Studio 2005
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MagicFMDLL", "MagicFMDLL.vcproj", "{08F2A75F-9374-4112-89A5-334F9D9F0332}"
-	ProjectSection(WebsiteProperties) = preProject
-		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.Debug = "False"
-	EndProjectSection
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MagicFMDLL", "MagicFMDLL.vcxproj", "{08F2A75F-9374-4112-89A5-334F9D9F0332}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
